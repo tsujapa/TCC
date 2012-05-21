@@ -1,0 +1,9 @@
+C:\Users\Tsuyoshi\TCC\KaneMoney\View\bin\View.dll
+C:\Users\Tsuyoshi\TCC\KaneMoney\View\bin\View.pdb
+C:\Users\Tsuyoshi\TCC\KaneMoney\View\bin\Facebook.dll
+C:\Users\Tsuyoshi\TCC\KaneMoney\View\bin\Facebook.xml
+C:\Users\Tsuyoshi\TCC\KaneMoney\View\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsuyoshi\TCC\KaneMoney\View\obj\Debug\View.dll
+C:\Users\Tsuyoshi\TCC\KaneMoney\View\obj\Debug\View.pdb
+C:\Users\Tsuyoshi\TCC\KaneMoney\View\bin\Controller.dll
+C:\Users\Tsuyoshi\TCC\KaneMoney\View\bin\Controller.pdb
